@@ -1,8 +1,8 @@
 print("Mucho gusto Mario")
 print("Otro texto")
 
-
-
-
-
 MARIO --> ESTOY MODIFICANDO TU ARCHIVO
+
+print("Modificaciones adicionales por parte de Santiago 1")
+print("Modificaciones adicionales por parte de Santiago 2")
+
