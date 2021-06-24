@@ -1,1 +1,2 @@
 print("Mucho gusto Mario")
+print("Otro texto")

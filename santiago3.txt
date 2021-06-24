@@ -1,2 +1,5 @@
+X = 5
 While x > 2:
 	print(¨hola¨)
+If x > 3:
+	print("Un cambio mas")
